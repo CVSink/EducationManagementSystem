@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="javafx.base">
-    <CLASSES>
-      <root url="jar://D:/javafx-sdk-11.0.2/lib/javafx.base.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
